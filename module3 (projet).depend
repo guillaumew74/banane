@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1510755429 source:c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
+1510754417 source:c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1510752946 c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\menu.h
+
+1510754558 source:c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.C"
+
+1510754539 c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\generationcode.h
+
+1510755429 c:\users\corentin\desktop\cesi exia\code blocks\module3 (projet)\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+	"generationCode.h"
+	"menu.h"
+
