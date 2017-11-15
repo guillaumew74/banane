@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1510737730 source:c:\users\utilisateur\documents\exia\projet n°1\projet c menu\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1510740105 source:c:\users\utilisateur\documents\exia\projet n°1\projet c menu\menu.c
+	"menu.h"
+
+1510737431 c:\users\utilisateur\documents\exia\projet n°1\projet c menu\menu.h
+	<stdlib.h>
+	<stdio.h>
+
