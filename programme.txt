@@ -21,7 +21,7 @@ void loop() {
   tempsDetection = millis();
   calculcardio(tempsDetection, tempsPrecedent, valeurSeuil);
   tempsDetection = millis();
-  Serial.println( (1000.0 * 60.0) / ((tempsDetection + valeurSeuil) - tempsPrecedent),0);
+  Serial.print( (1000.0 * 60.0) / ((tempsDetection + valeurSeuil) - tempsPrecedent),0);
   Serial.print(";");
   Serial.println(tempsDetection);
   tempsPrecedent = tempsDetection;
