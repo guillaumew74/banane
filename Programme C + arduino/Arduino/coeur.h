@@ -354,44 +354,45 @@ void chenille(int pin11, int pin2, int pin3, int pin4, int pin5, int pin6, int p
 {
   while (choix == 12){
     digitalWrite(pin11,HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin11,LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin2, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin2, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin3, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin3, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin4, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin4, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin5, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin5, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin6, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin6, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin7, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin7, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin8, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin8, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin9, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin9, LOW);
-    delay(833);
+    delay(416);
     digitalWrite(pin10, HIGH);
-    delay(833);
+    delay(416);
     digitalWrite(pin10, LOW);
+    delay(416);
   }
 }
 
