@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1510910288 source:c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\action.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"donnees.h"
+
+1510910689 source:c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\donnees.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"donnees.h"
+	"action.h"
+	"menu.h"
+
+1510910330 source:c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"donnees.h"
+	"action.h"
+
+1510910728 source:c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"menu.h"
+	"donnees.h"
+
+1510910174 c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\donnees.h
+
+1510910202 c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\action.h
+
+1510910151 c:\users\corentin\desktop\cesi exia\projet\module 4 le vrai\menu.h
+
